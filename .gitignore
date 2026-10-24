@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+.DS_Store
+*.pyc
+*.save
+.venv/
+__pycache__/
+.DS_Store
+*.pyc
+.env
+
